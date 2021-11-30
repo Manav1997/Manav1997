@@ -29,3 +29,4 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Manav1997.Manav1997)
+[![Github](https://img.shields.io/github/followers/Manav1997?label=Follow&style=social)](https://github.com/Manav1997)
