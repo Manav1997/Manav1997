@@ -31,4 +31,5 @@ You can click the Preview link to take a look at your changes.
 ![](https://visitor-badge.laobi.icu/badge?page_id=Manav1997.Manav1997)
 [![Github](https://img.shields.io/github/followers/Manav1997?label=Follow&style=social)](https://github.com/Manav1997)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Manav1997&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Manav1997&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manav1997&theme=default)
