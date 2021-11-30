@@ -27,3 +27,5 @@ You can click the Preview link to take a look at your changes.
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
  
 </p>
+
+![](https://visitor-badge.laobi.icu/badge?page_id=Manav1997.Manav1997)
